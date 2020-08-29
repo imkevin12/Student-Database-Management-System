@@ -1,0 +1,2 @@
+# Student-Database-Management-System
+Python GUI student data management system/software is different from student record management system/software. In this we can insert student's Roll No, Name, Email, Gender, DOB, Contact and Address. We can also perform Save (Add), Update, Delete and Clear operations on those data. All these records will store in mysql database and will show at Table Frame. We can also search into these records by Name, Roll No or Contact.
